@@ -9,6 +9,7 @@ div.centered{
     text-align: center;
 }
 div.container{
+    font-size: medium;
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 10px;
@@ -19,6 +20,9 @@ div.container{
     margin-bottom: 50px;
     border-radius: 25px;
     background-color: white;
+}
+span.highlight {
+    background-color: yellow;
 }
 td {
     padding-top: 5px;
