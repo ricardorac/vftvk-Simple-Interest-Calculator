@@ -1,4 +1,31 @@
-body {background-color:tan;}
-h1{color:green;}
-
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    background-color:black;
+}
+h1{
+    color:gray;
+}
+div.centered{
+    text-align: center;
+}
+div.container{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    border-radius: 25px;
+    background-color: white;
+}
+td {
+    padding-top: 5px;
+}
+form {
+    display: inline-block;
+    text-align: justify;
+    width: 70%;
+}
 
